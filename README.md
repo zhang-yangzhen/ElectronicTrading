@@ -1,0 +1,2 @@
+# ElectronicTrading
+The program is to help facilitate the trading of equities on an electronic exchange market. The market offers a variety of equities. Any market client can place a buy or sell order on equity to request that a transaction be executed when matching sellers or buyers become available. The program takes in buy and sell orders for a variety of equities as they arrive and matches buyers with sellers to execute trades as quickly as possible.
